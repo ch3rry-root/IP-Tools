@@ -77,7 +77,7 @@ if option == '1':
 elif option == '2':
     ip2 = input(f"{Fore.MAGENTA}Enter skid IP: ")
 
-    num_pings = input("Enter the number of pings2: ")
+    num_pings = input("Enter the number of pings: ")
     print(Fore.RESET)
 
     try:
