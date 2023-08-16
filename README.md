@@ -1,3 +1,4 @@
 # IP-Tools
->Need root to run ping3<
+Maybe need root to run ping3! 
+Add lolpython to PATH 
 
