@@ -1,2 +1,3 @@
 # IP-Tools
-Python script with some ip tools 
+>Need root to run ping3<
+
