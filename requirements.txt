@@ -1,0 +1,4 @@
+requests
+colorama
+lolpython
+ping3
